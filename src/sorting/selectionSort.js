@@ -1,4 +1,4 @@
-const arr = [23, 34, 12, 14, 9, 10, 52];
+const arr = [23, 34, 100, 12, 14, 9, 10, 52];
 
 const selection = (arr) => {
   for (let i = 0; i < arr.length; i++) {
