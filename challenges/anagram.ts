@@ -12,7 +12,6 @@ export const isAnagram =  (word1: string, word2: string) => {
     for (let i = 0; i < list.length; i++) {
        freqList[list[i]] = freqList[list[i]] + 1 || 1
     }
-
     return freqList;
   }
 
