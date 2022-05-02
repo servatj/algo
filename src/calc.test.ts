@@ -1,4 +1,4 @@
-import Calc from '../src/Calc';
+import Calc from './Calc';
 
 describe('Calc', () => {
   test('should return 10 for ', () => {
